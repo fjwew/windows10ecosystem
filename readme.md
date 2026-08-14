@@ -9,7 +9,7 @@ disclaimer:
 
 ------------------------------------------------------------------------------------------------------------
 
-windows10ecosystem is project which was created to archive and preserve UWP applications from "One product family One platform One store" era(2015-2019) and community projects of reviving this era.
+windows10ecosystem is project which was created to archive and preserve UWP applications from "One product family One platform One store" era(2015-2019), UWP applications with early UWP design(2015-2019) and community projects of reviving this era.
 
 
 what is preserved:
