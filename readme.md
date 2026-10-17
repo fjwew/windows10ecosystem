@@ -2,20 +2,24 @@ disclaimer:
 
   • this repository is a preservation project.
   
-  • the applications preserved here are not necessarily developed, maintained, or endorsed by this project.
+  • the applications preserved here are not necessarily developed, maintained, or endorsed by author of this project.
   
   • all trademarks and copyrights belong to their respective owners.
 
 
 ------------------------------------------------------------------------------------------------------------
 
-windows10ecosystem is project which was created to archive and preserve UWP applications from "One product family One platform One store" era(2015-2019), UWP applications with early UWP design(2015-2019) and community projects of reviving this era.
+windows10ecosystem is project which was created to archive and preserve UWP applications from "One product family One platform One store" era(2015-2019), UWP applications with early UWP design and community projects of reviving this era.
 
 
 what is preserved:
 
-  • UWP applications with .appx extension
-  
-  • arm/arm64/x64/x86 architectures for apps
-
-  • historical store descriptions of apps that have been published in microsoft store/original descriptions of apps that have been published by community
+  • microsoft store apps/games
+    • .appx/.appxbundle extension
+    • arm/arm64/x64/x86 architectures
+    • old microsoft store info: description, what's new in this version, features, category, publisher, icon, screenshots
+    
+  • community apps/games
+    • .appx/.appxbundle extension
+    • arm/arm64/x64/x86 architectures
+    • developers info: description, what's new in this version, features, developer, icon, screenshots
